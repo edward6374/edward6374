@@ -54,3 +54,15 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theclouder&" alt="theclouder" />
 </p>
+<br>
+
+<h1 align="center">42 School Projects</h1><br>
+<h3>
+<ul>
+  <li>Libft</li>
+  <li>Printf</li>
+  <li>Get_Next_Line</li>
+  <li>Push_Swap</li>
+  <li>Fractol</li>
+  <li>Pipex</li>
+</ul>
