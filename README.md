@@ -4,7 +4,7 @@
 </div>
 <div id="badges">
   <a href="www.linkedin.com/in/valerio-duchi">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="www.github.com/Theclouder">
     <img src="https://img.shields.io/github/followers/Theclouder?style=social" alt="Github Badge"/>
