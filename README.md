@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Valerio Duchi</h1>
 <h3 align="center">A passionate software engineer studying in 42 Barcelona</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=theclouder&label=Profile%20views&color=0e75b6&style=flat" alt="theclouder" />
 </p>
 
 <!---
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theclouder" alt="theclouder" /></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theclouder" alt="theclouder" />   </a>
 </p>
 --->
 
@@ -56,13 +56,87 @@
 </p>
 <br>
 
-<h1 align="center">42 School Projects</h1><br>
-<h3>
-<ul>
-  <li>Libft</li>
-  <li>Printf</li>
-  <li>Get_Next_Line</li>
-  <li>Push_Swap</li>
-  <li>Fractol</li>
-  <li>Pipex</li>
-</ul>
+<p>
+  <img width="1258" alt="42CourseTree" src="https://user-images.githubusercontent.com/33827060/221569834-7adf3b6d-2191-47f7-9785-6b34332e6c93.png">
+</p>
+<br>
+
+<h1 align="center">42 School Projects (inner circulus)</h1>
+<br>
+
+<h3> ⚪ First Ring</h3>
+
+<h5> :one: Libft &#9; --> &#9; https://github.com/Theclouder/libft</h5>
+<br>
+
+<h3> 🔵 Second Ring</h3>
+
+<h5> :one: ft_printf &#9; --> &#9; https://github.com/Theclouder/ft_printf</h5>
+<br>
+
+<h5> :two: get_next_line &#9; --> &#9; https://github.com/Theclouder/get_next_line</h5>
+<br>
+
+<h5> :three: Born2beroot &#9; --> &#9; In this project you have to create a virtual machine, so there is no repository</h5>
+<br>
+
+<h3> 🟢 Third Ring</h3>
+
+<h5> :one: fractol &#9; --> &#9; https://github.com/Theclouder/fractol</h5>
+<br>
+
+<h5> :two: push_swap &#9; --> &#9; https://github.com/Theclouder/push_swap</h5>
+<br>
+
+<h5> :three: pipex (in progress) &#9; --> &#9; https://github.com/Theclouder/pipex</h5>
+<br>
+
+<h5> :four: Exam Rank 02 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-02</h5>
+<br>
+
+<h3> 🟡 Fourth Ring</h3>
+
+<h5> :one: minishell (not yet started) &#9; --> &#9; https://github.com/Theclouder/minishell</h5>
+<br>
+
+<h5> :two: Phisolophers (not yet started) &#9; --> &#9; https://github.com/Theclouder/Philosophers</h5>
+<br>
+
+<h5> :three: Exam Rank 03 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-03</h5>
+<br>
+
+<h3> 🟠 Fifth Ring</h3>
+
+<h5> :one: cub3d (not yet started) &#9; --> &#9; https://github.com/Theclouder/cub3d</h5>
+<br>
+
+<h5> :two: C++ Module 0 -> 9 (not yet started) &#9; --> &#9; https://github.com/Theclouder/CPlusPlus</h5>
+<br>
+
+<h5> :three: NetPractice (not yet started) &#9; --> &#9; https://github.com/Theclouder/NetPractice</h5>
+<br>
+
+<h5> :four: Exam Rank 04 (not done yet) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-04</h5>
+<br>
+
+<h3> 🔴 Sixth Ring</h3>
+
+<h5> :one: webserv (not yet started) &#9; --> &#9; https://github.com/Theclouder/webserv</h5>
+<br>
+
+<h5> :two: Inception (not yet started) &#9; --> &#9; https://github.com/Theclouder/Inception</h5>
+<br>
+
+<h5> :three: ft_containers (not yet started) &#9; --> &#9; https://github.com/Theclouder/ft_containers</h5>
+<br>
+
+<h5> :four: Exam Rank 05 (not done yet) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-05</h5>
+<br>
+
+<h3> 🟣 Seventh Ring</h3>
+
+<h5> :one: ft_trascendence (not yet started) &#9; --> &#9; https://github.com/Theclouder/ft_trascendence</h5>
+<br>
+
+<h5> :two: Exam Rank 06 (not done yet) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-06</h5>
+<br>
