@@ -7,7 +7,7 @@
 
 <!---
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theclouder" alt="theclouder" />   </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edward6374" alt="edward6374" />   </a>
 </p>
 --->
 
@@ -44,15 +44,15 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theclouder&show_icons=true&locale=en&layout=compact" alt="theclouder"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edward6374&show_icons=true&locale=en&layout=compact" alt="edward6374"/>
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theclouder&show_icons=true&locale=en" alt="theclouder" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edward6374&show_icons=true&locale=en" alt="edward6374" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theclouder&" alt="theclouder" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edward6374&" alt="edward6374" />
 </p>
 <br>
 
