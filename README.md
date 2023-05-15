@@ -88,7 +88,7 @@
 <h5> :two: push_swap &#9; --> &#9; https://github.com/Theclouder/push_swap</h5>
 <br>
 
-<h5> :three: pipex (in progress) &#9; --> &#9; https://github.com/Theclouder/pipex</h5>
+<h5> :three: minitalk (in progress) &#9; --> &#9; https://github.com/Theclouder/minitalk</h5>
 <br>
 
 <h5> :four: Exam Rank 02 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-02</h5>
@@ -96,7 +96,7 @@
 
 <h3> 🟡 Fourth Ring</h3>
 
-<h5> :one: minishell (not yet started) &#9; --> &#9; https://github.com/Theclouder/minishell</h5>
+<h5> :one: minishell (in progress) &#9; --> &#9; https://github.com/Theclouder/minishell</h5>
 <br>
 
 <h5> :two: Phisolophers (not yet started) &#9; --> &#9; https://github.com/Theclouder/Philosophers</h5>
