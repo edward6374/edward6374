@@ -57,27 +57,26 @@
 <br>
 
 <p>
-  <img width="1258" alt="42CourseTree" src="https://user-images.githubusercontent.com/33827060/221569834-7adf3b6d-2191-47f7-9785-6b34332e6c93.png">
+  <img width="1133" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/3d33a1b9-8865-4e47-8740-13653110288e">
 </p>
-<br>
 
 <h1 align="center">42 School Projects (inner circulus)</h1>
 <br>
 
 <h3> ⚪ First Ring</h3>
 
-<h5> :one: Libft &#9; --> &#9; https://github.com/Theclouder/libft</h5>
+<h5> :one: Libft (completed) &#9; --> &#9; https://github.com/Theclouder/libft</h5>
 <br>
 
 <h3> 🔵 Second Ring</h3>
 
-<h5> :one: ft_printf &#9; --> &#9; https://github.com/Theclouder/ft_printf</h5>
+<h5> :one: ft_printf (completed) &#9; --> &#9; https://github.com/Theclouder/ft_printf</h5>
 <br>
 
-<h5> :two: get_next_line &#9; --> &#9; https://github.com/Theclouder/get_next_line</h5>
+<h5> :two: get_next_line (completed) &#9; --> &#9; https://github.com/Theclouder/get_next_line</h5>
 <br>
 
-<h5> :three: Born2beroot &#9; --> &#9; In this project you have to create a virtual machine, so there is no repository</h5>
+<h5> :three: Born2beroot (completed) &#9; --> &#9; In this project you have to create a virtual machine, so there is no repository</h5>
 <br>
 
 <h3> 🟢 Third Ring</h3>
@@ -85,10 +84,10 @@
 <h5> :one: fractol &#9; --> &#9; https://github.com/Theclouder/fractol</h5>
 <br>
 
-<h5> :two: push_swap &#9; --> &#9; https://github.com/Theclouder/push_swap</h5>
+<h5> :two: push_swap (completed) &#9; --> &#9; https://github.com/Theclouder/push_swap</h5>
 <br>
 
-<h5> :three: minitalk (in progress) &#9; --> &#9; https://github.com/Theclouder/minitalk</h5>
+<h5> :three: pipex (completed) &#9; --> &#9; https://github.com/Theclouder/pipex</h5>
 <br>
 
 <h5> :four: Exam Rank 02 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-02</h5>
