@@ -65,15 +65,15 @@
 
 <h3> ⚪ First Ring</h3>
 
-<h5> :one: Libft (completed) &#9; --> &#9; https://github.com/Theclouder/libft</h5>
+<h5> :one: Libft (completed) &#9; --> &#9; https://github.com/edward6374/libft</h5>
 <br>
 
 <h3> 🔵 Second Ring</h3>
 
-<h5> :one: ft_printf (completed) &#9; --> &#9; https://github.com/Theclouder/ft_printf</h5>
+<h5> :one: ft_printf (completed) &#9; --> &#9; https://github.com/edward6374/ft_printf</h5>
 <br>
 
-<h5> :two: get_next_line (completed) &#9; --> &#9; https://github.com/Theclouder/get_next_line</h5>
+<h5> :two: get_next_line (completed) &#9; --> &#9; https://github.com/edward6374/get_next_line</h5>
 <br>
 
 <h5> :three: Born2beroot (completed) &#9; --> &#9; In this project you have to create a virtual machine, so there is no repository</h5>
@@ -81,13 +81,13 @@
 
 <h3> 🟢 Third Ring</h3>
 
-<h5> :one: fractol &#9; --> &#9; https://github.com/Theclouder/fractol</h5>
+<h5> :one: fractol (completed) &#9; --> &#9; https://github.com/edward6374/fractol</h5>
 <br>
 
-<h5> :two: push_swap (completed) &#9; --> &#9; https://github.com/Theclouder/push_swap</h5>
+<h5> :two: push_swap (completed) &#9; --> &#9; https://github.com/edward6374/push_swap</h5>
 <br>
 
-<h5> :three: pipex (completed) &#9; --> &#9; https://github.com/Theclouder/pipex</h5>
+<h5> :three: pipex (completed) &#9; --> &#9; https://github.com/edward6374/pipex</h5>
 <br>
 
 <h5> :four: Exam Rank 02 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-02</h5>
@@ -95,10 +95,10 @@
 
 <h3> 🟡 Fourth Ring</h3>
 
-<h5> :one: minishell (in progress) &#9; --> &#9; https://github.com/Theclouder/minishell</h5>
+<h5> :one: minishell (in progress) &#9; --> &#9; https://github.com/edward6374/minishell</h5>
 <br>
 
-<h5> :two: Phisolophers (not yet started) &#9; --> &#9; https://github.com/Theclouder/Philosophers</h5>
+<h5> :two: Phisolophers (not yet started) &#9; --> &#9; https://github.com/edward6374/Philosophers</h5>
 <br>
 
 <h5> :three: Exam Rank 03 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-03</h5>
@@ -106,13 +106,13 @@
 
 <h3> 🟠 Fifth Ring</h3>
 
-<h5> :one: cub3d (not yet started) &#9; --> &#9; https://github.com/Theclouder/cub3d</h5>
+<h5> :one: cub3d (not yet started) &#9; --> &#9; https://github.com/edward6374/cub3d</h5>
 <br>
 
-<h5> :two: C++ Module 0 -> 9 (not yet started) &#9; --> &#9; https://github.com/Theclouder/CPlusPlus</h5>
+<h5> :two: C++ Module 0 -> 9 (not yet started) &#9; --> &#9; https://github.com/edward6374/CPlusPlus</h5>
 <br>
 
-<h5> :three: NetPractice (not yet started) &#9; --> &#9; https://github.com/Theclouder/NetPractice</h5>
+<h5> :three: NetPractice (not yet started) &#9; --> &#9; https://github.com/edward6374/NetPractice</h5>
 <br>
 
 <h5> :four: Exam Rank 04 (not done yet) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-04</h5>
@@ -120,13 +120,13 @@
 
 <h3> 🔴 Sixth Ring</h3>
 
-<h5> :one: webserv (not yet started) &#9; --> &#9; https://github.com/Theclouder/webserv</h5>
+<h5> :one: webserv (not yet started) &#9; --> &#9; https://github.com/edward6374/webserv</h5>
 <br>
 
-<h5> :two: Inception (not yet started) &#9; --> &#9; https://github.com/Theclouder/Inception</h5>
+<h5> :two: Inception (not yet started) &#9; --> &#9; https://github.com/edward6374/Inception</h5>
 <br>
 
-<h5> :three: ft_containers (not yet started) &#9; --> &#9; https://github.com/Theclouder/ft_containers</h5>
+<h5> :three: ft_containers (not yet started) &#9; --> &#9; https://github.com/edward6374/ft_containers</h5>
 <br>
 
 <h5> :four: Exam Rank 05 (not done yet) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-05</h5>
@@ -134,7 +134,7 @@
 
 <h3> 🟣 Seventh Ring</h3>
 
-<h5> :one: ft_trascendence (not yet started) &#9; --> &#9; https://github.com/Theclouder/ft_trascendence</h5>
+<h5> :one: ft_trascendence (not yet started) &#9; --> &#9; https://github.com/edward6374/ft_trascendence</h5>
 <br>
 
 <h5> :two: Exam Rank 06 (not done yet) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-06</h5>
