@@ -98,7 +98,7 @@
 <h5> :one: minishell (in progress) &#9; --> &#9; https://github.com/edward6374/minishell</h5>
 <br>
 
-<h5> :two: Phisolophers (not yet started) &#9; --> &#9; https://github.com/edward6374/Philosophers</h5>
+<h5> :two: Phisolophers (completed) &#9; --> &#9; https://github.com/edward6374/Philosophers</h5>
 <br>
 
 <h5> :three: Exam Rank 03 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-03</h5>
