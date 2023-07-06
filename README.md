@@ -57,7 +57,7 @@
 <br>
 
 <p>
-  <img width="1133" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/3d33a1b9-8865-4e47-8740-13653110288e">
+  <img width="1133" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/67aa5d23-4975-43a1-bf52-fa8224103d40">
 </p>
 
 <h1 align="center">42 School Projects (inner circulus)</h1>
