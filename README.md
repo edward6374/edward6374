@@ -57,7 +57,7 @@
 <br>
 
 <p>
-  <img width="1133" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/7bfe789c-c966-4987-acc2-27fecc6ce6f4">
+ <img width="1074" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/03fee9a6-ddad-4d7e-8daa-affafdcbf075">
 </p>
 
 <h1 align="center">42 School Projects (inner circulus)</h1>
@@ -95,7 +95,7 @@
 
 <h3> 🟡 Fourth Ring</h3>
 
-<h5> :one: minishell (in progress) &#9; --> &#9; https://github.com/edward6374/minishell</h5>
+<h5> :one: minishell (completed) &#9; --> &#9; https://github.com/edward6374/minishell</h5>
 <br>
 
 <h5> :two: Phisolophers (completed) &#9; --> &#9; https://github.com/edward6374/Philosophers</h5>
@@ -106,16 +106,16 @@
 
 <h3> 🟠 Fifth Ring</h3>
 
-<h5> :one: cub3d (not yet started) &#9; --> &#9; https://github.com/edward6374/cub3d</h5>
+<h5> :one: cub3d (in progress) &#9; --> &#9; https://github.com/edward6374/cub3d</h5>
 <br>
 
-<h5> :two: C++ Module 0 -> 9 (not yet started) &#9; --> &#9; https://github.com/edward6374/CPlusPlus</h5>
+<h5> :two: C++ Module 0 -> 9 (in progress) &#9; --> &#9; https://github.com/edward6374/CPlusPlus</h5>
 <br>
 
 <h5> :three: NetPractice (not yet started) &#9; --> &#9; https://github.com/edward6374/NetPractice</h5>
 <br>
 
-<h5> :four: Exam Rank 04 (not done yet) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-04</h5>
+<h5> :four: Exam Rank 04 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-04</h5>
 <br>
 
 <h3> 🔴 Sixth Ring</h3>
