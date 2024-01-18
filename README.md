@@ -57,7 +57,7 @@
 <br>
 
 <p>
- <img width="1074" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/03fee9a6-ddad-4d7e-8daa-affafdcbf075">
+  <img width="1112" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/9fc9c36c-6b08-4bae-951e-88844374abad">
 </p>
 
 <h1 align="center">42 School Projects (inner circulus)</h1>
@@ -106,13 +106,13 @@
 
 <h3> 🟠 Fifth Ring</h3>
 
-<h5> :one: cub3d (in progress) &#9; --> &#9; https://github.com/edward6374/cub3d</h5>
+<h5> :one: cub3d (completed) &#9; --> &#9; https://github.com/edward6374/cub3d</h5>
 <br>
 
-<h5> :two: C++ Module 0 -> 9 (in progress) &#9; --> &#9; https://github.com/edward6374/CPlusPlus</h5>
+<h5> :two: C++ Module 0 -> 4 (completed) &#9; --> &#9; https://github.com/edward6374/CPlusPlus</h5>
 <br>
 
-<h5> :three: NetPractice (not yet started) &#9; --> &#9; https://github.com/edward6374/NetPractice</h5>
+<h5> :three: NetPractice (completed) &#9; --> &#9; https://github.com/edward6374/NetPractice</h5>
 <br>
 
 <h5> :four: Exam Rank 04 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-04</h5>
@@ -120,16 +120,16 @@
 
 <h3> 🔴 Sixth Ring</h3>
 
-<h5> :one: webserv (not yet started) &#9; --> &#9; https://github.com/edward6374/webserv</h5>
+<h5> :one: webserv (in progress) &#9; --> &#9; https://github.com/edward6374/webserv</h5>
 <br>
 
-<h5> :two: Inception (not yet started) &#9; --> &#9; https://github.com/edward6374/Inception</h5>
+<h5> :two: Inception (in progress) &#9; --> &#9; https://github.com/edward6374/Inception</h5>
 <br>
 
-<h5> :three: ft_containers (not yet started) &#9; --> &#9; https://github.com/edward6374/ft_containers</h5>
+<h5> :two: C++ Module 5 -> 9 (in progress) &#9; --> &#9; https://github.com/edward6374/CPlusPlus</h5>
 <br>
 
-<h5> :four: Exam Rank 05 (not done yet) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-05</h5>
+<h5> :four: Exam Rank 05 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-05</h5>
 <br>
 
 <h3> 🟣 Seventh Ring</h3>
