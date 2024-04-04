@@ -57,7 +57,7 @@
 <br>
 
 <p>
-  <img width="1112" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/9fc9c36c-6b08-4bae-951e-88844374abad">
+  <img width="1175" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/2a717170-41c7-44db-a795-033490275b48">
 </p>
 
 <h1 align="center">42 School Projects (inner circulus)</h1>
@@ -123,10 +123,10 @@
 <h5> :one: webserv (in progress) &#9; --> &#9; https://github.com/edward6374/webserv</h5>
 <br>
 
-<h5> :two: Inception (in progress) &#9; --> &#9; https://github.com/edward6374/Inception</h5>
+<h5> :two: Inception (completed) &#9; --> &#9; https://github.com/edward6374/Inception</h5>
 <br>
 
-<h5> :two: C++ Module 5 -> 9 (in progress) &#9; --> &#9; https://github.com/edward6374/CPlusPlus</h5>
+<h5> :two: C++ Module 5 -> 9 (completed) &#9; --> &#9; https://github.com/edward6374/CPlusPlus</h5>
 <br>
 
 <h5> :four: Exam Rank 05 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-05</h5>
