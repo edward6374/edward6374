@@ -57,7 +57,7 @@
 <br>
 
 <p>
-  <img width="1175" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/2a717170-41c7-44db-a795-033490275b48">
+  <img width="1175" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/25c42722-9a76-4eba-9781-5fe0c89445a2">
 </p>
 
 <h1 align="center">42 School Projects (inner circulus)</h1>
@@ -120,7 +120,7 @@
 
 <h3> 🔴 Sixth Ring</h3>
 
-<h5> :one: webserv (in progress) &#9; --> &#9; https://github.com/edward6374/webserv</h5>
+<h5> :one: webserv (completed) &#9; --> &#9; https://github.com/nach131/webserver</h5>
 <br>
 
 <h5> :two: Inception (completed) &#9; --> &#9; https://github.com/edward6374/Inception</h5>
@@ -134,8 +134,8 @@
 
 <h3> 🟣 Seventh Ring</h3>
 
-<h5> :one: ft_trascendence (not yet started) &#9; --> &#9; https://github.com/edward6374/ft_trascendence</h5>
+<h5> :one: ft_trascendence (in progress) &#9; --> &#9; https://github.com/edward6374/ft_trascendence</h5>
 <br>
 
-<h5> :two: Exam Rank 06 (not done yet) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-06</h5>
+<h5> :two: Exam Rank 06 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-06</h5>
 <br>
