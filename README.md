@@ -51,13 +51,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=edward6374&show_icons=true&locale=en" alt="edward6374" />
 </p>
 
+<!--
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edward6374&" alt="edward6374" />
 </p>
+-->
 <br>
 
 <p>
-  <img width="1175" alt="42CourseTree" src="https://github.com/edward6374/edward6374/assets/33827060/25c42722-9a76-4eba-9781-5fe0c89445a2">
+  <img width="1192" height="1100" alt="42CourseTree" src="https://github.com/user-attachments/assets/02cdc434-579d-45fb-ba15-10abbed53867" />
 </p>
 
 <h1 align="center">42 School Projects (inner circulus)</h1>
@@ -134,7 +136,7 @@
 
 <h3> 🟣 Seventh Ring</h3>
 
-<h5> :one: ft_trascendence (in progress) &#9; --> &#9; https://github.com/edward6374/ft_trascendence</h5>
+<h5> :one: ft_trascendence (completed) &#9; --> &#9; https://github.com/edward6374/ft_trascendence</h5>
 <br>
 
 <h5> :two: Exam Rank 06 (completed) &#9; --> &#9; Repository of one of my colleagues: https://github.com/pasqualerossi/42-School-Exam-Rank-06</h5>
